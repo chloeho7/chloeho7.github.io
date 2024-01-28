@@ -3,7 +3,6 @@ github_users:
 
 github_repos:
   - chloeho7/chloeho7.github.io
-  - getsentry/sentry/integrations/request_buffer.py
   - jekyll/jekyll
   - jquery/jquery
   - FortAwesome/Font-Awesome
