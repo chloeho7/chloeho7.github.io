@@ -1,10 +1,9 @@
 github_users:
-  - torvalds
-  - alshedivat
+  - chloeho7
 
 github_repos:
-  - alshedivat/al-folio
-  - twbs/bootstrap
+  - chloeho7/chloeho7.github.io
+  - getsentry/sentry/integrations/request_buffer.py
   - jekyll/jekyll
   - jquery/jquery
   - FortAwesome/Font-Awesome
