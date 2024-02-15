@@ -2,7 +2,7 @@
 layout: page
 permalink: /repositories/
 title: repositories
-description: See my contributions to the Sentry codebase [here](https://github.com/getsentry/sentry/commits?author=chloeho7)
+description: 
 nav: true
 nav_order: 4
 ---
@@ -36,6 +36,8 @@ nav_order: 4
 {% endif %}
 
 ## GitHub Repositories
+
+See my contributions to the Sentry codebase [here](https://github.com/getsentry/sentry/commits?author=chloeho7)
 
 {% if site.data.repositories.github_repos %}
 
