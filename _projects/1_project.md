@@ -8,7 +8,18 @@ category: creative embedded systems
 related_publications: false
 ---
 
-test
+[Download the code](https://github.com/chloeho7/vday-installation-creative-embedded-sys)
+
+video of mine
+
+This project offers a queer interpretation of Lana Del Rey lyrics and visualizes the cycle of love and loss.
+There are three main parts presented. The first part uses tiny that flood the screen and are randomly colored and placed to represent the unexpectedness and the rush of early stages of love. The second part features a rush or rainbow and Lana Del Rey lyrics related to falling in love and being in love and a heart randomly moving around the screen representing happiness and excitement. The final part features a beating heart and lyrics related to sadness and loss appearing before the heart breaks and lowers down the screen while the screen dims to black and becomes dormant before repeating the cycle.
+
+video of the installation
+
+blah blah
+
+process of making pictures
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
