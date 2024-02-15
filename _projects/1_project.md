@@ -5,7 +5,7 @@ description:
 img: assets/img/12.jpg
 importance: 1
 category: creative embedded systems
-related_publications: true
+related_publications: false
 ---
 
 
