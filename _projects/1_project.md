@@ -10,7 +10,7 @@ related_publications: false
 
 video of mine
 
-<iframe width="420" height="315" src="https://youtu.be/embed/HUqh9DVShdw?si=chUFBxynGYgAitGe" frameborder="0" allowfullscreen="allowfullscreen">&nbsp;</iframe>
+<iframe width="420" height="315" src="https://youtu.be/HUqh9DVShdw?si=chUFBxynGYgAitGe" frameborder="0" allowfullscreen="allowfullscreen">&nbsp;</iframe>
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/HUqh9DVShdw?si=qKnr0yA7k-TIVgIx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen> </iframe>
 
