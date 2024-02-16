@@ -21,12 +21,14 @@ blah blah
 
 process of making pictures
 
+#### [Download the code](https://github.com/chloeho7/vday-installation-creative-embedded-sys)
+### [Download the code](https://github.com/chloeho7/vday-installation-creative-embedded-sys)
 ## [Download the code](https://github.com/chloeho7/vday-installation-creative-embedded-sys)
+# [Download the code](https://github.com/chloeho7/vday-installation-creative-embedded-sys)
+
 
 <!-- code for GitHub repositories -->
-
 {% if site.data.repositories.module_one_repo %}
-
 <div class="repositories d-flex flex-wrap flex-md-row flex-column justify-content-between align-items-center">
   {% for repo in site.data.repositories.module_one_repo %} {% include repository/repo.liquid repository=repo %} {% endfor %}
 </div>
