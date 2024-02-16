@@ -23,6 +23,13 @@ blah blah
 
 process of making pictures
 
+<!-- code for GitHub repositories -->
+{% if site.data.repositories.module_one_repo %}
+<div class="repositories d-flex flex-wrap flex-md-row flex-column justify-content-between align-items-center">
+  {% for repo in site.data.repositories.module_one_repo %} {% include repository/repo.liquid repository=repo %} {% endfor %}
+</div>
+{% endif %}
+
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
         {% include figure.liquid path="assets/img/1.jpg" title="example image" class="img-fluid rounded z-depth-1" %}

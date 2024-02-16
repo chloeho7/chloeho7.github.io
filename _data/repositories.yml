@@ -8,3 +8,6 @@ github_repos:
   - FortAwesome/Font-Awesome
   - jpswalsh/academicons
   - mathjax/MathJax
+
+module_one_repo:
+  - chloeho7/vday-installation-creative-embedded-sys
