@@ -10,14 +10,17 @@ related_publications: false
 
 video of mine
 
-<iframe width="420" height="315" src="https://youtu.be/HUqh9DVShdw?si=chUFBxynGYgAitGe" frameborder="0" allowfullscreen="allowfullscreen">&nbsp;</iframe>
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HUqh9DVShdw?si=qKnr0yA7k-TIVgIx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen> </iframe>
-
 This project offers a queer interpretation of Lana Del Rey lyrics and visualizes the cycle of love and loss.
 There are three main parts presented. The first part uses tiny that flood the screen and are randomly colored and placed to represent the unexpectedness and the rush of early stages of love. The second part features a rush or rainbow and Lana Del Rey lyrics related to falling in love and being in love and a heart randomly moving around the screen representing happiness and excitement. The final part features a beating heart and lyrics related to sadness and loss appearing. The heart beat slows down and finally the heart breaks and lowers down the screen while the screen dims to black and becomes dormant before repeating the cycle.
 
 video of the installation
+
+<div class="row justify-content-sm-center">
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/HUqh9DVShdw?si=qKnr0yA7k-TIVgIx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen> </iframe>
+</div>
+<div class="caption">
+    Full video of Sketch
+</div>
 
 blah blah
 
