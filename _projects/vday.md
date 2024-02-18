@@ -55,8 +55,10 @@ While the process of testing and adjusting was not necessarily challenging or co
     </div>
 </div>
 <div class="caption">
-    You can also have artistically styled 2/3 + 1/3 images, like these.
+    Connecting to battery and positioning in envelope
 </div>
+
+To power the 
 
 <div class="row justify-content-sm-center">
     <div class="col-sm-4 mt-3 mt-md-0">
@@ -70,7 +72,7 @@ While the process of testing and adjusting was not necessarily challenging or co
     </div>
 </div>
 <div class="caption">
-    You can also have artistically styled 2/3 + 1/3 images, like these.
+    Taping envelope and connecting to string
 </div>
 
 <!-- code for GitHub repositories -->
