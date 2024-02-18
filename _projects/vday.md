@@ -54,13 +54,13 @@ While the process of testing and adjusting was not necessarily challenging or co
 
 <div class="row justify-content-sm-center">
     <div class="col-sm-4 mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/pluggingin.jpg" title="example image" class="img-fluid rounded z-depth-1 rotate" %}
+        {% include figure.liquid path="assets/img/pluggingin.jpg" title="example image" class="img-fluid rounded z-depth-1 rotate-image" %}
     </div>
     <div class="col-sm-4 mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/inside.jpg" title="example image" class="img-fluid rounded z-depth-1 rotate" %}
+        {% include figure.liquid path="assets/img/inside.jpg" title="example image" class="img-fluid rounded z-depth-1 rotate-image" %}
     </div>
     <div class="col-sm-4 mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/outside.jpg" title="example image" class="img-fluid rounded z-depth-1 rotate" %}
+        {% include figure.liquid path="assets/img/outside.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
@@ -69,13 +69,13 @@ While the process of testing and adjusting was not necessarily challenging or co
 
 <div class="row justify-content-sm-center">
     <div class="col-sm-4 mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/insidetaped.jpg" title="example image" class="img-fluid rounded z-depth-1 rotate" %}
+        {% include figure.liquid path="assets/img/insidetaped.jpg" title="example image" class="img-fluid rounded z-depth-1 rotate-image" %}
     </div>
     <div class="col-sm-4 mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/outsidetaped.jpg" title="example image" class="img-fluid rounded z-depth-1 rotate" %}
+        {% include figure.liquid path="assets/img/outsidetaped.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="col-sm-4 mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/string.jpg" title="example image" class="img-fluid rounded z-depth-1 rotate" %}
+        {% include figure.liquid path="assets/img/string.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
@@ -84,13 +84,13 @@ While the process of testing and adjusting was not necessarily challenging or co
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/1.jpg" title="example image" class="img-fluid rounded z-depth-1 rotate" %}
+        {% include figure.liquid path="assets/img/1.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/3.jpg" title="example image" class="img-fluid rounded z-depth-1 rotate" %}
+        {% include figure.liquid path="assets/img/3.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/5.jpg" title="example image" class="img-fluid rounded z-depth-1 rotate" %}
+        {% include figure.liquid path="assets/img/5.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
