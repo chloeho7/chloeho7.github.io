@@ -4,7 +4,7 @@ title: Valentine's Installation
 description: Creative Embedded Systems Module 1
 img: assets/img/thumbnailmod1.jpg
 importance: 1
-category: Creative Embedded Systems
+category: creative embedded systems
 related_publications: false
 ---
 

@@ -5,7 +5,7 @@ permalink: /projects/
 description: A growing collection of your cool projects.
 nav: true
 nav_order: 3
-display_categories: [Creative Embedded Systems, work, fun]
+display_categories: [creative embedded systems, work, fun]
 horizontal: false
 ---
 
