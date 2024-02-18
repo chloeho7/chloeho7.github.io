@@ -8,6 +8,9 @@ category: creative embedded systems
 related_publications: false
 ---
 
+This project offers a queer interpretation of Lana Del Rey lyrics and visualizes the cycle of love and loss.
+The assignment given was to create a generative art installation that runs on the ESP32 TTGO T-Display with a valentine's day theme to be displayed in the envelope as shown.
+
 <div class="row justify-content-sm-center">
 <iframe width="853" height="505" src="https://www.youtube.com/embed/NHFYFbRfrQA?si=fEZuPPyt5vdalCZ1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 </div>
@@ -15,19 +18,16 @@ related_publications: false
     Installation on Display
 </div>
 
-This project offers a queer interpretation of Lana Del Rey lyrics and visualizes the cycle of love and loss.
-The assignment given was to create a generative art installation that runs on the ESP32 TTGO T-Display with a valentine's day theme to be displayed in the envelope as shown.
-
-#### Artistic Vision
-
-I choosed to use Lana Del Rey lyrics because she is my favorite artist and many lyrics seem to be talking to a lover which corresponds to the envelope in the installation. I choosed to use hearts and rainbows to represent my personal experiences with love being shaped by queerness. There are three main parts presented in the visual display. In the first part, tiny hearts flood the screen and are randomly colored and placed to represent the unexpectedness and the rush of early stages of love. The second part features a rush or rainbow and Lana Del Rey lyrics related to falling in love and being in love and a heart randomly moving around the screen representing happiness and excitement. The final part features a beating heart and lyrics related to sadness and loss appear. The heart beat slows down and finally the heart breaks and lowers down the screen while the screen dims to black and becomes dormant before repeating the cycle.
-
 <div class="row justify-content-sm-center">
     <iframe width="853" height="505" src="https://www.youtube.com/embed/HUqh9DVShdw?si=qKnr0yA7k-TIVgIx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen> </iframe>
 </div>
 <div class="caption">
     Full video of Sketch
 </div>
+
+#### Artistic Vision
+
+I choosed to use Lana Del Rey lyrics because she is my favorite artist and many lyrics seem to be talking to a lover which corresponds to the envelope in the installation. I choosed to use hearts and rainbows to represent my personal experiences with love being shaped by queerness. There are three main parts presented in the visual display. In the first part, tiny hearts flood the screen and are randomly colored and placed to represent the unexpectedness and the rush of early stages of love. The second part features a rush or rainbow and Lana Del Rey lyrics related to falling in love and being in love and a heart randomly moving around the screen representing happiness and excitement. The final part features a beating heart and lyrics related to sadness and loss appear. The heart beat slows down and finally the heart breaks and lowers down the screen while the screen dims to black and becomes dormant before repeating the cycle.
 
 #### Technical Challenges
 
@@ -42,6 +42,36 @@ While the process of testing and adjusting was not necessarily challenging or co
 ## Installing
 
 ### [Download the code and envelope](https://github.com/chloeho7/vday-installation-creative-embedded-sys)
+
+<div class="row justify-content-sm-center">
+    <div class="col-sm-4 mt-3 mt-md-0">
+        {% include figure.liquid path="assets/img/pluggingin.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+    </div>
+    <div class="col-sm-4 mt-3 mt-md-0">
+        {% include figure.liquid path="assets/img/inside.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+    </div>
+    <div class="col-sm-4 mt-3 mt-md-0">
+        {% include figure.liquid path="assets/img/outside.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+    </div>
+</div>
+<div class="caption">
+    You can also have artistically styled 2/3 + 1/3 images, like these.
+</div>
+
+<div class="row justify-content-sm-center">
+    <div class="col-sm-4 mt-3 mt-md-0">
+        {% include figure.liquid path="assets/img/insidetaped.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+    </div>
+    <div class="col-sm-4 mt-3 mt-md-0">
+        {% include figure.liquid path="assets/img/outsidetaped.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+    </div>
+    <div class="col-sm-4 mt-3 mt-md-0">
+        {% include figure.liquid path="assets/img/string.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+    </div>
+</div>
+<div class="caption">
+    You can also have artistically styled 2/3 + 1/3 images, like these.
+</div>
 
 <!-- code for GitHub repositories -->
 
