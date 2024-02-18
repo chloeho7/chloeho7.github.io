@@ -25,7 +25,6 @@ There are three main parts presented. In the first part, tiny hearts flood the s
     Full video of Sketch
 </div>
 
-
 blah blah
 
 process of making pictures
