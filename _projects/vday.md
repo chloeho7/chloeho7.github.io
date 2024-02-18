@@ -58,7 +58,7 @@ While the process of testing and adjusting was not necessarily challenging or co
     Connecting to battery and positioning in envelope
 </div>
 
-To power the 
+To power the
 
 <div class="row justify-content-sm-center">
     <div class="col-sm-4 mt-3 mt-md-0">
