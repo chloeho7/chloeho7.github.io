@@ -8,8 +8,6 @@ category: creative embedded systems
 related_publications: false
 ---
 
-video of mine
-
 <div class="row justify-content-sm-center">
 <iframe width="853" height="505" src="https://www.youtube.com/embed/NHFYFbRfrQA?si=fEZuPPyt5vdalCZ1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 </div>
@@ -19,8 +17,6 @@ video of mine
 
 This project offers a queer interpretation of Lana Del Rey lyrics and visualizes the cycle of love and loss.
 There are three main parts presented. In the first part, tiny hearts flood the screen and are randomly colored and placed to represent the unexpectedness and the rush of early stages of love. The second part features a rush or rainbow and Lana Del Rey lyrics related to falling in love and being in love and a heart randomly moving around the screen representing happiness and excitement. The final part features a beating heart and lyrics related to sadness and loss appear. The heart beat slows down and finally the heart breaks and lowers down the screen while the screen dims to black and becomes dormant before repeating the cycle.
-
-video of the installation
 
 <div class="row justify-content-sm-center">
     <iframe width="853" height="505" src="https://www.youtube.com/embed/HUqh9DVShdw?si=qKnr0yA7k-TIVgIx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen> </iframe>
@@ -34,7 +30,7 @@ blah blah
 
 process of making pictures
 
-### [Download the code](https://github.com/chloeho7/vday-installation-creative-embedded-sys)
+### [Download the code and envelope](https://github.com/chloeho7/vday-installation-creative-embedded-sys)
 
 <!-- code for GitHub repositories -->
 
