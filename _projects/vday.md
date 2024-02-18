@@ -9,7 +9,6 @@ related_publications: false
 ---
 
 This project offers a queer interpretation of Lana Del Rey lyrics and visualizes the cycle of love and loss.
-The assignment given was to create a generative art installation that runs on the ESP32 TTGO T-Display with a valentine's day theme to be displayed in the envelope as shown.
 
 <div class="row justify-content-sm-center">
 <iframe width="853" height="505" src="https://www.youtube.com/embed/NHFYFbRfrQA?si=fEZuPPyt5vdalCZ1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
@@ -27,7 +26,7 @@ The assignment given was to create a generative art installation that runs on th
 
 #### Artistic Vision
 
-I choosed to use Lana Del Rey lyrics because she is my favorite artist and many lyrics seem to be talking to a lover which corresponds to the envelope in the installation. I choosed to use hearts and rainbows to represent my personal experiences with love being shaped by queerness. There are three main parts presented in the visual display. In the first part, tiny hearts flood the screen and are randomly colored and placed to represent the unexpectedness and the rush of early stages of love. The second part features a rush or rainbow and Lana Del Rey lyrics related to falling in love and being in love and a heart randomly moving around the screen representing happiness and excitement. The final part features a beating heart and lyrics related to sadness and loss appear. The heart beat slows down and finally the heart breaks and lowers down the screen while the screen dims to black and becomes dormant before repeating the cycle.
+The assignment given was to create a generative art installation that runs on the ESP32 TTGO T-Display with a valentine's day theme to be displayed in the envelope as shown. I choosed to use Lana Del Rey lyrics because she is my favorite artist and many lyrics seem to be talking to a lover which corresponds to the envelope in the installation. I choosed to use hearts and rainbows to represent my personal experiences with love being shaped by queerness. There are three main parts presented in the visual display. In the first part, tiny hearts flood the screen and are randomly colored and placed to represent the unexpectedness and the rush of early stages of love. The second part features a rush or rainbow and Lana Del Rey lyrics related to falling in love and being in love and a heart randomly moving around the screen representing happiness and excitement. The final part features a beating heart and lyrics related to sadness and loss appear. The heart beat slows down and finally the heart breaks and lowers down the screen while the screen dims to black and becomes dormant before repeating the cycle.
 
 #### Technical Challenges
 
