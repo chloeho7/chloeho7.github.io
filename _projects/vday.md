@@ -60,7 +60,7 @@ While the process of testing and adjusting was not necessarily challenging or co
 
 <div class="row justify-content-sm-center">
     <div class="col-sm-4 mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/pluggingin.jpg" title="example image" class="img-fluid rounded z-depth-1 rotate-image" %}
+        {% include figure.liquid path="assets/img/pluggingin.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="col-sm-4 mt-3 mt-md-0">
         {% include figure.liquid path="assets/img/inside.jpg" title="example image" class="img-fluid rounded z-depth-1 rotate-image" %}
