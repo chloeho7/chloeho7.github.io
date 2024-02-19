@@ -8,14 +8,14 @@ category: creative embedded systems
 related_publications: false
 ---
 
-This project offers a queer interpretation of Lana Del Rey lyrics and visualizes the cycle of love and loss.
-
 {% if site.data.repositories.module_one_repo %}
 
 <div class="repositories d-flex flex-wrap flex-md-row flex-column justify-content-between align-items-center">
   {% for repo in site.data.repositories.module_one_repo %} {% include repository/repo.liquid repository=repo %} {% endfor %}
 </div>
 {% endif %}
+
+This project offers a queer interpretation of Lana Del Rey lyrics and visualizes the cycle of love and loss.
 
 <div class="row justify-content-sm-center">
 <iframe width="853" height="505" src="https://www.youtube.com/embed/NHFYFbRfrQA?si=fEZuPPyt5vdalCZ1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
