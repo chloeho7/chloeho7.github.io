@@ -8,10 +8,10 @@ category: creative embedded systems
 related_publications: false
 ---
 
-<div class="row justify-content-sm-between">
+<div class="row justify-content-sm-start">
 
 <div class="col-sm-4 mt-3 mt-md-0">
-    {% include figure.liquid path="assets/img/desc.png" title="example image" class="img-fluid rounded z-depth-1 rotate-right" %}
+    {% include figure.liquid path="assets/img/desc.png" title="desc image" class="img-fluid rounded z-depth-1 rotate-right" %}
 </div>
 {% if site.data.repositories.module_one_repo %}
 
@@ -65,13 +65,13 @@ While the process of testing and adjusting was not necessarily challenging or co
 
 <div class="row justify-content-sm-center">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/pluggingin.jpg" title="example image" class="img-fluid rounded z-depth-1 rotate-right" %}
+        {% include figure.liquid path="assets/img/pluggingin.jpg" title="plugging in" class="img-fluid rounded z-depth-1 rotate-right" %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/inside.jpg" title="example image" class="img-fluid rounded z-depth-1 rotate-image" %}
+        {% include figure.liquid path="assets/img/inside.jpg" title="inside envelope" class="img-fluid rounded z-depth-1 rotate-image" %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/outside.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid path="assets/img/outside.jpg" title="outside envelope" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
@@ -80,13 +80,13 @@ While the process of testing and adjusting was not necessarily challenging or co
 
 <div class="row justify-content-sm-center">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/insidetaped.jpg" title="example image" class="img-fluid rounded z-depth-1 rotate-image" %}
+        {% include figure.liquid path="assets/img/insidetaped.jpg" title="taping" class="img-fluid rounded z-depth-1 rotate-image" %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/outsidetaped.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid path="assets/img/outsidetaped.jpg" title="taping outside" class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/string.jpg" title="example image" class="img-fluid rounded z-depth-1" style="transform: scaleY(-1);" %}
+        {% include figure.liquid path="assets/img/string.jpg" title="string" class="img-fluid rounded z-depth-1" style="transform: scaleY(-1);" %}
     </div>
 </div>
 <div class="caption">
