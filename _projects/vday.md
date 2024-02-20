@@ -12,7 +12,7 @@ related_publications: false
 
 {% if site.data.repositories.module_one_repo %}
 
-<div class="repositories d-flex flex-wrap flex-md-row flex-column justify-content-between align-items-center">
+<div class="repositories col-sm-8 mt-3 mt-md-0">
   {% for repo in site.data.repositories.module_one_repo %} {% include repository/repo.liquid repository=repo %} {% endfor %}
 </div>
 {% endif %}
