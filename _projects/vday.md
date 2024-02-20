@@ -8,7 +8,7 @@ category: creative embedded systems
 related_publications: false
 ---
 
-<div class="row justify-content-sm-evenly">
+<div class="row justify-content-sm-between">
 
 {% if site.data.repositories.module_one_repo %}
 
