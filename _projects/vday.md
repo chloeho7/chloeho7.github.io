@@ -12,9 +12,7 @@ related_publications: false
 
 {% if site.data.repositories.module_one_repo %}
 
-<div class="repositories col-sm-8 mt-3 mt-md-0">
-  {% for repo in site.data.repositories.module_one_repo %} {% include repository/repo.liquid repository=repo %} {% endfor %}
-</div>
+{% for repo in site.data.repositories.module_one_repo %} {% include repository/repo.liquid repository=repo %} {% endfor %}
 {% endif %}
 
 <div class="col-sm-4 mt-3 mt-md-0">
@@ -66,13 +64,13 @@ While the process of testing and adjusting was not necessarily challenging or co
 {% endif %}
 
 <div class="row justify-content-sm-center">
-    <div class="col-sm-4 mt-3 mt-md-0">
+    <div class="col-sm mt-3 mt-md-0">
         {% include figure.liquid path="assets/img/pluggingin.jpg" title="example image" class="img-fluid rounded z-depth-1 rotate-right" %}
     </div>
-    <div class="col-sm-4 mt-3 mt-md-0">
+    <div class="col-sm mt-3 mt-md-0">
         {% include figure.liquid path="assets/img/inside.jpg" title="example image" class="img-fluid rounded z-depth-1 rotate-image" %}
     </div>
-    <div class="col-sm-4 mt-3 mt-md-0">
+    <div class="col-sm mt-3 mt-md-0">
         {% include figure.liquid path="assets/img/outside.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
@@ -81,13 +79,13 @@ While the process of testing and adjusting was not necessarily challenging or co
 </div>
 
 <div class="row justify-content-sm-center">
-    <div class="col-sm-4 mt-3 mt-md-0">
+    <div class="col-sm mt-3 mt-md-0">
         {% include figure.liquid path="assets/img/insidetaped.jpg" title="example image" class="img-fluid rounded z-depth-1 rotate-image" %}
     </div>
-    <div class="col-sm-4 mt-3 mt-md-0">
+    <div class="col-sm mt-3 mt-md-0">
         {% include figure.liquid path="assets/img/outsidetaped.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
-    <div class="col-sm-4 mt-3 mt-md-0">
+    <div class="col-sm mt-3 mt-md-0">
         {% include figure.liquid path="assets/img/string.jpg" title="example image" class="img-fluid rounded z-depth-1" style="transform: scaleY(-1);" %}
     </div>
 </div>
