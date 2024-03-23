@@ -38,8 +38,6 @@ From a hardware perspective, you will need to connect the specified components t
 
 What creative decisions did you work lead you to, and which decisions did you take? How were your decisions motivated by your larger creative vision for this project. In the same vein, also address any technical issues you encountered in your work. Particularly focus on issues that other artists may encounter when developing with your hardware setup.
 
-
-
 This work was largely inspired by [The Catacombs of Solaris](https://ianmaclarty.itch.io/catacombs-of-solaris-original) and Kalidescopes.
 
 I choosed to use Lana Del Rey lyrics because she is my favorite artist and many lyrics seem to be talking to a lover which corresponds to the envelope in the installation.
