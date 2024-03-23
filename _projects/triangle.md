@@ -8,10 +8,13 @@ category: creative embedded systems
 giscus_comments: true
 ---
 
+<div>
 {% if site.data.repositories.module_two_repo %}
 
 {% for repo in site.data.repositories.module_two_repo %} {% include repository/repo.liquid repository=repo %} {% endfor %}
 {% endif %}
+
+</div>
 
 Every project has a beautiful feature showcase page.
 It's easy to include images in a flexible 3-column grid format.
