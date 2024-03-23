@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Improving the health of Sentry integrations
-description: Internship Project
+title: Improving Integration Health
+description: Sentry Internship Project
 img: assets/img/0224-DTSD-545-intern-stories-chloe-ho.jpg
 redirect: https://blog.sentry.io/intern-stories-chloe-integration-health/
 importance: 1
