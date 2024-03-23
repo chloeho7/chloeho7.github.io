@@ -4,10 +4,8 @@ github_users:
 github_repos:
   - chloeho7/chloeho7.github.io
   - getsentry/sentry
-  - jquery/jquery
-  - FortAwesome/Font-Awesome
-  - jpswalsh/academicons
-  - mathjax/MathJax
+  - chloeho7/vday-installation-creative-embedded-sys
+  - chloeho7/triangle-world-game
 
 module_one_repo:
   - chloeho7/vday-installation-creative-embedded-sys
