@@ -11,3 +11,7 @@ github_repos:
 
 module_one_repo:
   - chloeho7/vday-installation-creative-embedded-sys
+
+module_two_repo:
+  - chloeho7/triangle-world-game
+

@@ -1,12 +1,18 @@
 ---
 layout: page
 title: triangle game
-description: creative embedded systems module 2
-img: assets/img/3.jpg
+description: Creative Embedded Systems Module 2
+img: assets/img/Screen-Recording-2024-03-21-at-11.29.59-AM.gif
 importance: 2
 category: creative embedded systems
 giscus_comments: true
 ---
+
+{% if site.data.repositories.module_two_repo %}
+
+{% for repo in site.data.repositories.module_two_repo %} {% include repository/repo.liquid repository=repo %} {% endfor %}
+{% endif %}
+
 
 Every project has a beautiful feature showcase page.
 It's easy to include images in a flexible 3-column grid format.
