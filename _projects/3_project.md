@@ -1,9 +1,9 @@
 ---
 layout: page
-title: project 3
-description: a project that redirects to another website
-img: assets/img/7.jpg
-redirect: https://unsplash.com
+title: Improving the health of Sentry integrations
+description: Internship Project
+img: assets/img/0224-DTSD-545-intern-stories-chloe-ho.jpg
+redirect: https://blog.sentry.io/intern-stories-chloe-integration-health/
 importance: 3
 category: work
 ---
