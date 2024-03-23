@@ -32,6 +32,14 @@ To give your project a background in the portfolio page, just add the img tag to
 
 The assignment given was to create a generative art installation that runs on the ESP32 TTGO T-Display with a valentine's day theme to be displayed in the envelope as shown.
 
+The goal is to create an interactive device with the provided hardware. The devices will run off wired power and send data back to your laptop for visualization, sonfication, or whatever media generation process you prefer.
+
+From a hardware perspective, you will need to connect the specified components to the ESP32 and create an enclosure for the device. From a software perspective, you will write an ESP32 program that collects sensor data and sends it over either a serial or wifi connection to a laptop. You will also write a media generation program on your laptop to handle this data and create something interesting with it.
+
+What creative decisions did you work lead you to, and which decisions did you take? How were your decisions motivated by your larger creative vision for this project. In the same vein, also address any technical issues you encountered in your work. Particularly focus on issues that other artists may encounter when developing with your hardware setup.
+
+
+
 This work was largely inspired by [The Catacombs of Solaris](https://ianmaclarty.itch.io/catacombs-of-solaris-original) and Kalidescopes.
 
 I choosed to use Lana Del Rey lyrics because she is my favorite artist and many lyrics seem to be talking to a lover which corresponds to the envelope in the installation.
