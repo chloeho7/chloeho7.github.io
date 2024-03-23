@@ -2,7 +2,7 @@
 layout: page
 title: triangle game
 description: Creative Embedded Systems Module 2
-img: traingle.png 
+img: traingle.png
 importance: 2
 category: creative embedded systems
 giscus_comments: true
