@@ -9,20 +9,18 @@ category: creative embedded systems
 
 <div class="row justify-content-sm-start">
 
-<div>
 {% if site.data.repositories.module_two_repo %}
 
 {% for repo in site.data.repositories.module_two_repo %} {% include repository/repo.liquid repository=repo %} {% endfor %}
 {% endif %}
 
 </div>
-</div>
 
 <div class="row justify-content-sm-center">
 <iframe width="853" height="505" src="https://www.youtube.com/embed/c69II9nHpro?si=iewPPxSCMrowyJwS" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 </div>
 <div class="caption">
-    Installation on Display
+    Gameplay of Prisma Odyssey
 </div>
 
 Every project has a beautiful feature showcase page.
@@ -46,7 +44,9 @@ What creative decisions did you work lead you to, and which decisions did you ta
 
 DECISIONS: more colors, displaying information, kalidescope, trippy, hypnoitc , music, SFX, goal, learning, mininal, focus, 3D, ergonomic, protottyping, accessibility, contrast, WASD
 
-This work was largely inspired by [The Catacombs of Solaris](https://ianmaclarty.itch.io/catacombs-of-solaris-original) and Kalidescopes.
+This work was largely inspired by [The Catacombs of Solaris](https://ianmaclarty.itch.io/catacombs-of-solaris-original) which I learned about from visiting [ACMI](https://www.acmi.net.au/works/61402--the-catacombs-of-solaris/) about a year ago. I wanted to create a 3D game and was inspired by the illusion inducing, hynotic, and trippy nature of The Catacombs of Solaris.
+
+and Kalidescopes.
 
 #### Technical Challenges
 
