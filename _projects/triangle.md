@@ -35,7 +35,7 @@ This work was largely inspired by [The Catacombs of Solaris](https://ianmaclarty
     </div>
 </div>
 <div class="caption">
-    Gameplay of Prisma Odyssey
+   My Artwork from 2020 
 </div>
 
 I initially wanted to create a 3D space of triangular prisms that could be explored and climbed on. When researching how to create a 3D game
@@ -43,36 +43,29 @@ with pygame, I found a stackoverflow [post](https://stackoverflow.com/a/58675007
 
 #### Technical Challenges
 
-In the same vein, also address any technical issues you encountered in your work. Particularly focus on issues that other artists may encounter when developing with your hardware setup.
+The wiring for the joystick was a little difficult to figure out because the joystick in the enclosure is at a different orientation than the default. So the x and y axis were switched and used different ranges for each direction. I had to adjust the wiring and arduino code to account for this.
 
-DECISIONS: more colors, displaying information, kalidescope, trippy, hypnoitc , music, SFX, goal, learning, mininal, focus, 3D, ergonomic, protottyping, accessibility, contrast, WASD
+The most difficult part of the software was creating the 3D projection in the game. Since pygame does not have a built in 3D engine, I used the formula for 3D projection from [this](https://stackoverflow.com/a/58675007) stackoverflow post. I had to adjust the formula to create rotated triangles and to ensure the triangles were displayed in the correctly.
 
-Wires , prototyping, serial, timing, adjusitng randomness, difficulty, freeze bug, collecting logic, stackoverflow math
+Timing the data sent via the serial connection, with the game frame rate was also a challenge. I had to adjust the delay between each time data was sent from the ESP32 to my pygame program to ensure the game ran smoothly with minimal errors. I also had issues with the game freezing and was able to fix this bug by checking that the points of each triangle were in the range of the screen.
 
+Another challenge I faced was figuring out how to allow the player to collect triangles when they were close to the triangle. I came up with checking if the triangle took up a significant amount of the screen and allowed the player to collect the triangle if it did. I had to make various small adjustments to the range the triangles can be spawned and the range the player can collect the triangles to make the game challenging but not impossible.
 
-The wiring for the joystick was a little difficult to figure out because the joystick in the enclosure is at a different orientation than the default. I also had to 
-
-Most of the technical work involved making many small adjustments to convey my artistic vision.
-I had to slowly adjust two cirlces and a triangle to make the different sized hearts in the display.
-I did a lot of testing and adjustment with the timing for the heart beat in the third part and rate of displaying the tiny hearts in the first part.
-I also had to adjust the ranges when the heart moved randomly in the second part and in the final part when moving down the screen.
-Creating the breaking heart was one of the more challenging animations because the lines needed to be placed such that they looked right while becoming thicker.
-Working with the lyrics which are of varaible length was also challenging. Since I wanted the lyrics to display in a more random placement rather than from the top of the screen to the bottom, I used two lists, a list of lyrics and a list of coordinates, where the index of each list represented the order the lyrics were to be displayed. To do this I initially worked from top to bottom to figure out the coordinates for each lyrics with respect to all the others and then shuffled the contents of both lists so the index of the lyric list and the coordinate list coresponded.
-While the process of testing and adjusting was not necessarily challenging or complex it was tedious due to the time neeeded to upload to the ESP32.
+When creating the enclosure I wanted to make sure the joystick could be used ergonomically with just one hand. I also wanted the enclosure to be easy to assemble without many peices. I created many prototypes to ensure that the joystick had a full range of motion and was comfortable to use. I started by taping peices together before gluing. I also wanted to make sure the ESP32 could be accessed in the enclosure so the enclosure needed to be able to open.
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/1.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid path="assets/img/prototype1.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/3.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid path="assets/img/prototype2.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/5.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid path="assets/img/prototype3.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
-    Caption photos easily. On the left, a road goes through a tunnel. Middle, leaves artistically fall in a hipster photoshoot. Right, in another hipster photoshoot, a lumberjack grasps a handful of pine needles.
+    Prototypes of the enclosure
 </div>
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
