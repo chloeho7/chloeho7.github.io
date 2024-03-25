@@ -1,6 +1,6 @@
 ---
 layout: page
-title: prisma odyssey
+title: Prisma Odyssey
 description: Creative Embedded Systems Module 2
 img: assets/img/triangle.png
 importance: 1
@@ -30,7 +30,9 @@ The assignment given was to create an interactive device that runs off wired pow
 This work was largely inspired by [The Catacombs of Solaris](https://ianmaclarty.itch.io/catacombs-of-solaris-original) which I learned about from visiting [ACMI](https://www.acmi.net.au/works/61402--the-catacombs-of-solaris/) in 2023. I wanted to create a 3D game and was inspired by the illusion inducing, hynotic, and trippy nature of The Catacombs of Solaris. I was also inspired by my own art peices that featured triangles of various shapes and monochromatic shades.
 
 <div class="row justify-content-sm-center">
+    <div class="col-sm mt-3 mt-md-0">
     {% include figure.liquid path="assets/img/greentriart.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+    </div>
 <div class="caption">
     Gameplay of Prisma Odyssey
 </div>
