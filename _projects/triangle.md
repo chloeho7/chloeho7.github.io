@@ -7,14 +7,14 @@ importance: 1
 category: creative embedded systems
 ---
 
-<div class="row justify-content-sm-start">
+<!-- code for GitHub repositories -->
 
 {% if site.data.repositories.module_two_repo %}
 
-{% for repo in site.data.repositories.module_two_repo %} {% include repository/repo.liquid repository=repo %} {% endfor %}
-{% endif %}
-
+<div class="repositories d-flex flex-wrap flex-md-row flex-column justify-content-between align-items-center">
+  {% for repo in site.data.repositories.module_two_repo %} {% include repository/repo.liquid repository=repo %} {% endfor %}
 </div>
+{% endif %}
 
 Prisma Odyssey is an Experimental Art Exploration Game Designed for 16-inch Macbook and Joystick (also supports WASD+SPACE controls and other sized screens) using [Pygame](https://www.pygame.org/)
 
