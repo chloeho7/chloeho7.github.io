@@ -40,17 +40,26 @@ To give your project a background in the portfolio page, just add the img tag to
 
 The assignment given was to create an interactive device that runs off wired power and sends data back to a machine for media generation. It was required to connect components to an ESP32 and create an enclosure for the device. From a software perspective, an ESP32 program that collects and sends sensor data using a serial connection and a media generation program was required.
 
-What creative decisions did you work lead you to, and which decisions did you take? How were your decisions motivated by your larger creative vision for this project.
+This work was largely inspired by [The Catacombs of Solaris](https://ianmaclarty.itch.io/catacombs-of-solaris-original) which I learned about from visiting [ACMI](https://www.acmi.net.au/works/61402--the-catacombs-of-solaris/) in 2023. I wanted to create a 3D game and was inspired by the illusion inducing, hynotic, and trippy nature of The Catacombs of Solaris. I was also inspired by my own art peices that featured triangles of various shapes and monochromatic shades. 
 
-DECISIONS: more colors, displaying information, kalidescope, trippy, hypnoitc , music, SFX, goal, learning, mininal, focus, 3D, ergonomic, protottyping, accessibility, contrast, WASD
+<div class="row justify-content-sm-center">
+    {% include figure.liquid path="assets/img/greentriart.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+<div class="caption">
+    Gameplay of Prisma Odyssey
+</div>
 
-This work was largely inspired by [The Catacombs of Solaris](https://ianmaclarty.itch.io/catacombs-of-solaris-original) which I learned about from visiting [ACMI](https://www.acmi.net.au/works/61402--the-catacombs-of-solaris/) about a year ago. I wanted to create a 3D game and was inspired by the illusion inducing, hynotic, and trippy nature of The Catacombs of Solaris.
 
-and Kalidescopes.
+
+I initially wanted to create a 3D space of triangular prisms that could be explored and climbed on. When researching how to create a 3D game
+with pygame, I found a [stackoverflow post](https://stackoverflow.com/a/58675007) that demoed a 3D sky of stars. I iterated from here, transforming the stars into triangles of randoms shapes, shades and sizes and was struck by the kalidescopic effect that was created. To add onto the effect, I added a random mix of different colors each level and music that is relaxing and hypnotic. I wanted the game to be minimalistic so there is no seperate directions. I created display of the pieces that need to be collected and have been collected to imply to goal of the game. I also added a sound effect for when the player collects a piece and when a level is complete. For accessibility, I included a WASD control scheme so the game could be played without the joystick.
 
 #### Technical Challenges
 
 In the same vein, also address any technical issues you encountered in your work. Particularly focus on issues that other artists may encounter when developing with your hardware setup.
+
+
+DECISIONS: more colors, displaying information, kalidescope, trippy, hypnoitc , music, SFX, goal, learning, mininal, focus, 3D, ergonomic, protottyping, accessibility, contrast, WASD
+
 
 Wires , prototyping, serial, timing, adjusitng randomness, difficulty, freeze bug, collecting logic, stackoverflow math
 
