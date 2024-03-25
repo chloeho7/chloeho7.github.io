@@ -29,16 +29,17 @@ The assignment given was to create an interactive device that runs off wired pow
 
 This work was largely inspired by [The Catacombs of Solaris](https://ianmaclarty.itch.io/catacombs-of-solaris-original) which I learned about from visiting [ACMI](https://www.acmi.net.au/works/61402--the-catacombs-of-solaris/) in 2023. I wanted to create a 3D game and was inspired by the illusion inducing, hynotic, and trippy nature of The Catacombs of Solaris. I was also inspired by my own art peices that featured triangles of various shapes and monochromatic shades.
 
-<div class="row justify-content-sm-center">
+<div class="row">
     <div class="col-sm mt-3 mt-md-0">
     {% include figure.liquid path="assets/img/greentriart.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
+</div>
 <div class="caption">
     Gameplay of Prisma Odyssey
 </div>
 
 I initially wanted to create a 3D space of triangular prisms that could be explored and climbed on. When researching how to create a 3D game
-with pygame, I found a [stackoverflow post](https://stackoverflow.com/a/58675007) that demoed a 3D sky of stars. I iterated from here, transforming the stars into triangles of randoms shapes, shades and sizes and was struck by the kalidescopic effect that was created. To add onto the effect, I added a random mix of different colors each level and music that is relaxing and hypnotic. I wanted the game to be minimalistic so there is no seperate directions. I created display of the pieces that need to be collected and have been collected to imply to goal of the game. I also added a sound effect for when the player collects a piece and when a level is complete. For accessibility, I included a WASD control scheme so the game could be played without the joystick.
+with pygame, I found a stackoverflow [post](https://stackoverflow.com/a/58675007) that demoed a 3D sky of stars. I iterated from here, transforming the stars into triangles of randoms shapes, shades and sizes and was struck by the kalidescopic effect that was created. To add onto the effect, I added a random mix of different colors each level and music that is relaxing and hypnotic. I wanted the game to be minimalistic so there is no seperate directions. I created display of the pieces that need to be collected and have been collected to imply to goal of the game. I also added a sound effect for when the player collects a piece and when a level is complete. For accessibility, I included a WASD control scheme so the game could be played without the joystick.
 
 #### Technical Challenges
 
@@ -47,6 +48,9 @@ In the same vein, also address any technical issues you encountered in your work
 DECISIONS: more colors, displaying information, kalidescope, trippy, hypnoitc , music, SFX, goal, learning, mininal, focus, 3D, ergonomic, protottyping, accessibility, contrast, WASD
 
 Wires , prototyping, serial, timing, adjusitng randomness, difficulty, freeze bug, collecting logic, stackoverflow math
+
+
+The wiring for the joystick was a little difficult to figure out because the joystick in the enclosure is at a different orientation than the default. I also had to 
 
 Most of the technical work involved making many small adjustments to convey my artistic vision.
 I had to slowly adjust two cirlces and a triangle to make the different sized hearts in the display.
