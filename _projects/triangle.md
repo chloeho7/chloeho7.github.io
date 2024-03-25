@@ -57,13 +57,13 @@ When creating the enclosure I wanted to make sure the joystick could be used erg
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/prototype1.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid path="assets/img/prototype1.jpg" title="example image" class="img-fluid rounded z-depth-1 rotate-right" %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/prototype2.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid path="assets/img/prototype2.jpg" title="example image" class="img-fluid rounded z-depth-1 rotate-right" %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/prototype3.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid path="assets/img/prototype3.jpg" title="example image" class="img-fluid rounded z-depth-1 rotate-right" %}
     </div>
 </div>
 <div class="caption">
@@ -72,13 +72,13 @@ When creating the enclosure I wanted to make sure the joystick could be used erg
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/enclosureelevator.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid path="assets/img/enclosureelevator.jpg" title="example image" class="img-fluid rounded z-depth-1 rotate-right" %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/playing.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid path="assets/img/playing.jpg" title="example image" class="img-fluid rounded z-depth-1 rotate-right" %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/enclosurelights.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid path="assets/img/enclosurelights.jpg" title="example image" class="img-fluid rounded z-depth-1 rotate-right" %}
     </div>
 </div>
 <div class="caption">
