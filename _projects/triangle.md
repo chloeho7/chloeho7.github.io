@@ -16,6 +16,8 @@ category: creative embedded systems
 
 </div>
 
+Prisma Odyssey is an Experimental Art Exploration Game Designed for 16-inch Macbook and Joystick (also supports WASD+SPACE controls and other sized screens) using [Pygame](https://www.pygame.org/)
+
 <div class="row justify-content-sm-center">
 <iframe width="853" height="505" src="https://www.youtube.com/embed/c69II9nHpro?si=iewPPxSCMrowyJwS" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 </div>
