@@ -2,7 +2,7 @@
 layout: page
 title: Persistience of Vision Display
 description: Creative Embedded Systems Module 3
-img:
+img: assets/img/pov.gif
 importance: 3
 category: creative embedded systems
 related_publications: false
