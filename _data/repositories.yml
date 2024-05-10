@@ -12,3 +12,6 @@ module_one_repo:
 
 module_two_repo:
   - chloeho7/triangle-world-game
+
+module_three_repo:
+  - chloeho7/POV
