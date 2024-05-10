@@ -10,9 +10,9 @@ related_publications: false
 
 <div class="row justify-content-sm-start">
 
-{% if site.data.repositories.module_one_repo %}
+{% if site.data.repositories.module_three_repo %}
 
-{% for repo in site.data.repositories.module_one_repo %} {% include repository/repo.liquid repository=repo %} {% endfor %}
+{% for repo in site.data.repositories.module_three_repo %} {% include repository/repo.liquid repository=repo %} {% endfor %}
 {% endif %}
 
 </div>
