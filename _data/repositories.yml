@@ -6,6 +6,7 @@ github_repos:
   - getsentry/sentry
   - chloeho7/vday-installation-creative-embedded-sys
   - chloeho7/triangle-world-game
+  - chloeho7/POV
 
 module_one_repo:
   - chloeho7/vday-installation-creative-embedded-sys
